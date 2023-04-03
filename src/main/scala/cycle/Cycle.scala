@@ -1,4 +1,6 @@
 package cycle
 
+import hey.Hey
+
 object Cycle:
-  given hey.Hey[Int] = ???
+  given Hey[Int] = ???
